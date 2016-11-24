@@ -1,0 +1,13 @@
+.code-container {
+	width: 204px;
+	height: 21px;
+	overflow: hidden;
+}
+
+.code-item {
+	width: 30px;
+}
+
+.code-item:last-child {
+	/*display: none;*/
+}
